@@ -8,7 +8,7 @@ function getFabricValue() {
   const rect = new f.Rect({
     width: 1400,
     height: 400,
-    fill: "Yellow",
+    fill: "Yellow", 
   });
   const canvas = new fabric.Canvas("c", {
     backgroundColor: "rgb(100,100,200)",
